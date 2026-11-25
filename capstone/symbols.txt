@@ -1,0 +1,11 @@
+MAIN_LOOP = 0
+SET_WHITE = 8
+START_DRAW = 10
+ROW_LOOP = 18
+COL_LOOP = 30
+END_ROW = 45
+color = 16
+row_addr = 17
+row_count = 18
+col_addr = 19
+col_count = 20
